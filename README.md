@@ -21,11 +21,10 @@ The analysis follows the CRISP-DM methodology for structured and systematic data
 ---
 
 ## Dataset
-- **[IMDB](https://www.imdb.com/) and [BOM](https://www.boxofficemojo.com/)
+- [IMDB](https://www.imdb.com/) and [BOM](https://www.boxofficemojo.com/)
 - **Features**:
   - Revenue details: domestic_gross, foreign_gross
   - Movie details: title, year, runtime, genre, ratings
-  - 
 - **Access**: Publicly available for download from [Here](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3).
 
 ---
