@@ -58,7 +58,8 @@ This project is structured using the CRISP-DM framework:
 - **Languages**: Python
 - **Libraries**:
   - pandas and numpy for data wrangling
-  -scipy and statsmodels for modelling
+  - sqlite3 for db reading
+  - statsmodels for modelling
   - matplotlib and seaborn for visualization
 
 ---
