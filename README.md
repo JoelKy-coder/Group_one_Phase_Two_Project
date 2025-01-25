@@ -3,7 +3,8 @@
 # Project Overview
 This project aims to explore key trends in the movie industry, including genres, themes, and audience preferences that are driving box office performance.
 
-# Hypothesis Testing in Movies Data: Analyzing Revenue Trends Over Movie Votes
+ ### Hypothesis Testing in Movies Data:
+ Analyzing Revenue Trends Over Movie Votes
 
 ## Project Description
 This project explores revenue trends in the movie industry using statistical hypothesis testing. The primary objective is to determine whether there is 
